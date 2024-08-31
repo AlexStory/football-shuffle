@@ -383,6 +383,134 @@ const data = [
             "Los Angeles Rams",
             "Cincinnati Bengals"
         ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Detroit Lions",
+            "Green Bay Packers"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Atlanta Falcons",
+            "Jacksonville Jaguars"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Miami Dolphins",
+            "Buffalo Bills"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Minnesota Vikings",
+            "Carolina Panthers"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Denver Broncos",
+            "Chicago Bears"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Baltimore Ravens",
+            "Cleveland Browns"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Pinnsburgh Steelers",
+            "Houston Texans"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Los Angeles Rams",
+            "Indianapolis Colts"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Tampa Bay Buccaneers",
+            "New Orleans Saints"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Washington Commanders",
+            "Philadelphia Eagles"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Cincinnati Bengals",
+            "Tennesssee Titans"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Las Vegas Raiders",
+            "Los Angeles Chargers"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "New England Patriots",
+            "Dallas Cowboys"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Arizona Cardinals",
+            "San Francisco 49ers"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Kansas City Chiefs",
+            "New York Jets"
+        ]
+    },
+    {
+        "year": 2023,
+        "week": 4,
+        "teams": [
+            "Seattle Seahawks",
+            "New York Giants"
+        ]
     }
 ]
 
