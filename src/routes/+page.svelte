@@ -97,7 +97,9 @@
 	<button onclick={shuffle} class="shuffle"> SHUFFLE! </button>
 
 	{#if selectedGame.year > 0}
-		<p>{selectedGame.teams.join(' vs ')}</p>
+		<p>{selectedGame.teams[0]}</p>
+		<p>vs</p>
+		<p>{selectedGame.teams[1]}</p>
 		<p>{selectedGame.year}</p>
 		<p>week: {selectedGame.week}</p>
 	{/if}
