@@ -1,7 +1,6 @@
 <script>
 	import Header from './Header.svelte';
 	import '../app.css';
-	export const prerender = true;
 </script>
 
 <div class="app">
@@ -38,10 +37,6 @@
 		justify-content: center;
 		align-items: center;
 		padding: 12px;
-	}
-
-	footer a {
-		font-weight: bold;
 	}
 
 	@media (min-width: 480px) {
